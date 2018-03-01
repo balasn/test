@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_orbit_safetyx_issue">x_orbit_safetyx_issue</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>SAFT</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>chuck.tomasi</sys_created_by>
+        <sys_created_on>2018-01-09 23:16:35</sys_created_on>
+        <sys_id>ea951e79dbe70700e846d8c75e9619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SAFT</sys_name>
+        <sys_package display_value="Safety First" source="x_orbit_safetyx">0e955a79dbe70700e846d8c75e961956</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety First">0e955a79dbe70700e846d8c75e961956</sys_scope>
+        <sys_update_name>sys_number_ea951e79dbe70700e846d8c75e9619ef</sys_update_name>
+        <sys_updated_by>chuck.tomasi</sys_updated_by>
+        <sys_updated_on>2018-01-09 23:16:35</sys_updated_on>
+    </sys_number>
+</record_update>

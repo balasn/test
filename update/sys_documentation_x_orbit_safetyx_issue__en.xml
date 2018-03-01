@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Issue" language="en" table="x_orbit_safetyx_issue">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Issue</label>
+            <language>en</language>
+            <name>x_orbit_safetyx_issue</name>
+            <plural>Issues</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>chuck.tomasi</sys_created_by>
+            <sys_created_on>2018-01-09 23:16:34</sys_created_on>
+            <sys_id>22951e79dbe70700e846d8c75e9619e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Issue</sys_name>
+            <sys_package display_value="Safety First" source="x_orbit_safetyx">0e955a79dbe70700e846d8c75e961956</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Safety First">0e955a79dbe70700e846d8c75e961956</sys_scope>
+            <sys_update_name>sys_documentation_x_orbit_safetyx_issue__en</sys_update_name>
+            <sys_updated_by>chuck.tomasi</sys_updated_by>
+            <sys_updated_on>2018-01-09 23:16:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
